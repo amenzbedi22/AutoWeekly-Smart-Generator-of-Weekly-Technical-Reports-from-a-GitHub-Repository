@@ -23,8 +23,8 @@ AutoWeekly is an automated Python-based tool that generates a weekly Markdown re
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/amenzbedi22/AutoWeekly-Smart-Generator-of-Weekly-Technical-Reports-from-a-GitHub-Repository.git
+cd AutoWeekly-Smart-Generator-of-Weekly-Technical-Reports-from-a-GitHub-Repository
 ```
 
 ### 2. Install Required Dependencies
