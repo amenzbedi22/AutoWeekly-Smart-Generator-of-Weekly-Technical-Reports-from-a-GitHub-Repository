@@ -1,5 +1,3 @@
-# AutoWeekly-Smart-Generator-of-Weekly-Technical-Reports-from-a-GitHub-Repository
-
 # 🧠 AutoWeekly – Smart Generator of Weekly Technical Reports from a GitHub Repository
 
 AutoWeekly is an automated Python-based tool that generates a weekly Markdown report summarizing all GitHub activity in a repository. It computes contributor KPIs, assigns motivational badges, and saves the report in a clean format for visibility and performance tracking.
