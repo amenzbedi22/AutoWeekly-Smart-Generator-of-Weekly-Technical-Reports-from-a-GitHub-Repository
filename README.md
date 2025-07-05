@@ -1,0 +1,1 @@
+# AutoWeekly-Smart-Generator-of-Weekly-Technical-Reports-from-a-GitHub-Repository
